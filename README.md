@@ -65,5 +65,4 @@ Word: a _ _ _ _
 ## Author
 Mohit Patel
 
-## GitHub Repository
-Add your GitHub repository link here.
+
